@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Hello welcome
-new
-=======
+
  Hello welcome
 Hey Amalu
->>>>>>> 160de403cdf7b729508985a514ae25ef085e1f49
+Welcome
